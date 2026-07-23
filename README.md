@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Strawberry.png" alt="strawberry" width="56" height="56" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="butterfly" width="56" height="56" />
 </p>
 
 <p align="center">
@@ -37,16 +37,6 @@
   <a href="mailto:shruireland@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20hi-FADADD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="butterfly" width="34" height="34" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="sparkles" width="34" height="34" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="palette" width="34" height="34" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cherry%20Blossom.png" alt="cherry blossom" width="34" height="34" />
 </p>
 
 ---
@@ -173,12 +163,12 @@ A few things I've made or helped shape. More lives on my [portfolio](https://shr
 ### 🍓 little things about me
 
 ```text
-📚  design research rabbit holes
-☕  slow mornings
-🎧  good playlists
-💛  human stories
-🗺️  new places
-✿   soft pinks, warm creams, thoughtful details
+design research rabbit holes
+slow mornings
+good playlists
+human stories
+new places
+soft pinks, warm creams, thoughtful details
 ```
 
 ---
@@ -205,7 +195,7 @@ Ideas, questions, collabs, or even a simple hi are always welcome. I read everyt
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Strawberry.png" alt="strawberry" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="butterfly" width="40" height="40" />
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=140&section=footer&animation=fadeIn" width="100%" alt="waving pink footer" />
   <br />
