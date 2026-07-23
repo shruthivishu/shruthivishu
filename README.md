@@ -59,14 +59,12 @@ Right now I'm at **Maynooth University**, building things that hopefully make so
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" width="28" height="28" alt="" />
         Empathy first
       </h3>
       <p align="center">I listen, really listen, and watch how people move through their environments.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="28" height="28" alt="" />
         Question everything
       </h3>
       <p align="center">Why is my favourite word. Surface answers rarely survive me.</p>
@@ -75,14 +73,12 @@ Right now I'm at **Maynooth University**, building things that hopefully make so
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="28" height="28" alt="" />
         Embrace the mess
       </h3>
       <p align="center">Ambiguity does not scare me. The clarity that follows is the fun part.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" height="28" alt="" />
         Make it matter
       </h3>
       <p align="center">Every project is a chance to improve someone's actual experience.</p>
