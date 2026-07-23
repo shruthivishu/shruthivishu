@@ -102,15 +102,6 @@ Right now I'm at **Maynooth University**, building things that hopefully make so
 ✦  visual systems, soft pinks, warm details
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32" height="32" alt="books" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="32" height="32" alt="ideas" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32" height="32" alt="laptop" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="32" height="32" alt="pin" />
-</p>
 
 ---
 
