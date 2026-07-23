@@ -11,7 +11,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8FAB,F8A5C2,E8918F,FADADD&height=240&section=header&text=hi,%20I'm%20Shruthi%20🍓&fontSize=44&fontColor=fff5f7&fontAlignY=34&desc=design%20·%20curiosity%20·%20little%20details&descSize=17&descAlignY=54&animation=fadeIn" width="100%" alt="waving pink header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,50:F8A5C2,100:E8918F&height=240&section=header&text=hi,%20I'm%20Shruthi%20🍓&fontSize=44&fontColor=fff5f7&fontAlignY=34&desc=design%20·%20curiosity%20·%20little%20details&descSize=17&descAlignY=54&animation=fadeIn" width="100%" alt="waving pink header" />
 </div>
 
 <br />
@@ -197,7 +197,7 @@ Ideas, questions, collabs, or even a simple hi are always welcome. I read everyt
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="butterfly" width="40" height="40" />
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8FAB,F8A5C2,E8918F,FADADD&height=140&section=footer&animation=fadeIn" width="100%" alt="waving pink footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,50:F8A5C2,100:E8918F&height=140&section=footer&animation=fadeIn" width="100%" alt="waving pink footer" />
   <br />
   <sub>designed with care · built with curiosity · watered often 🍓</sub>
 </div>
