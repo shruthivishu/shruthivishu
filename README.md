@@ -58,29 +58,21 @@ Right now I'm at **Maynooth University**, building things that hopefully make so
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">
-        Empathy first
-      </h3>
+      <h3 align="center">🩷 Empathy first</h3>
       <p align="center">I listen, really listen, and watch how people move through their environments.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">
-        Question everything
-      </h3>
+      <h3 align="center">💜 Question everything</h3>
       <p align="center">Why is my favourite word. Surface answers rarely survive me.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">
-        Embrace the mess
-      </h3>
+      <h3 align="center">🧡 Embrace the mess</h3>
       <p align="center">Ambiguity does not scare me. The clarity that follows is the fun part.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">
-        Make it matter
-      </h3>
+      <h3 align="center">💗 Make it matter</h3>
       <p align="center">Every project is a chance to improve someone's actual experience.</p>
     </td>
   </tr>
@@ -135,15 +127,15 @@ A few things I've made or helped shape. More lives on my [portfolio](https://shr
 <br />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shruthivishu&show_icons=true&theme=rose&hide_border=true&bg_color=FFF5F7&title_color=E8918F&icon_color=FF8FAB&text_color=6B4A4A" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthivishu&layout=compact&theme=rose&hide_border=true&bg_color=FFF5F7&title_color=E8918F&text_color=6B4A4A" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shruthivishu&theme=default" height="180" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shruthivishu&theme=default" height="180" alt="languages" />
 </div>
 
 <br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shruthivishu&theme=pink&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="github trophies" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shruthivishu&background=FFF5F7&ring=E8918F&fire=FF8FAB&currStreakNum=E8918F&sideNums=E8918F&currStreakLabel=E8918F&sideLabels=E8918F&dates=B08A8A&hide_border=true" alt="streak stats" />
+</div>
 
 ---
 
